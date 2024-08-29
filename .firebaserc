@@ -1,5 +1,16 @@
 {
   "projects": {
-    "default": "goatgamer-by-rahat"
-  }
+    "default": "portfolio-projects-rahat"
+  },
+  "targets": {
+    "portfolio-projects-rahat": {
+      "hosting": {
+        "goatgamers": [
+          "goatgamers-by-rahat"
+        ]
+      }
+    }
+  },
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
 }

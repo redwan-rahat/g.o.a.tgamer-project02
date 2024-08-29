@@ -1,3 +1,3 @@
 **Live Website**
 
-https://goatgamer-by-rahat.web.app/
+https://goatgamers-by-rahat.web.app/
